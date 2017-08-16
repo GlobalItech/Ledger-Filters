@@ -5,7 +5,7 @@
     'category': 'Accounting',
     'author':'itech resources',
     'website': 'http://itechresources.net/',
-    'summary': 'Filter on accounts Reports ,Partner, General and Financial Ledger by partner',
+    'summary': 'Filter on Partner ledger and General ledger',
     'depends' : ['account_reports'],
     'installable' : True,
     'auto_install' : True,
