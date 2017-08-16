@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Ledger Filters',
+    'name': 'Account and Partner Ledger Filters',
     'version': '1.0',
     'category': 'Accounting',
     'author':'itech resources',
