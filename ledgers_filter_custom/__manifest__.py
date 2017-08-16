@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Account and Partner Ledger Filters',
+    'name': 'Account and Partner Ledger Filters(Enterprise v10)',
     'version': '1.0',
     'category': 'Accounting',
     'author':'itech resources',
